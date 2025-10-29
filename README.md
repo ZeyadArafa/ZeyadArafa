@@ -65,6 +65,24 @@
 
 ---
 
+## 🎯 Competitive Programming Profiles  
+
+<p align="center">  
+  <a href="https://codeforces.com/profile/Zeyad__Ayman" target="_blank">  
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="Codeforces"/>  
+  </a>  
+  <a href="https://leetcode.com/u/zeyad__dev/" target="_blank">  
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>  
+  </a>  
+  <a href="https://www.hackerrank.com/zeyaddev0" target="_blank">  
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/>  
+  </a>  
+</p>  
+
+---
+
+---
+
 ## 📬 Contact Me  
 
 <p align="center">  
